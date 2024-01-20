@@ -1,0 +1,100 @@
+[{
+        "name": "Fit Factory",
+        "desc": "A fitness web application .User can choose exercise categories and browse more than one thousand exercises. ",
+        "image": "fitfactory",
+        "category": "webapp",
+        "links": {
+            "view": "https://ffitfactory.netlify.app/",
+            "code": "https://github.com/shivamsisodia07/gym-app"
+        }
+    },
+    {
+        "name": "Dtu Iss",
+        "desc": "Developed and maintained Delhi Technological University International Students' Society website as part of a team of front-end developers.Used ",
+        "image": "dtu iss",
+        "category": "webapp",
+        "links": {
+            "view": "https://iss.kafmission.org/",
+            "code": ""
+        }
+    },
+    {
+        "name": "Portfolio",
+        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+        "image": "portfolio",
+        "category": "webapp",
+        "links": {
+            "view": "https://shivam-sisodia.netlify.app/",
+            "code": "https://github.com/shivamsisodia07/portfolio"
+        }
+    },
+    {
+        "name": "Shivam-Megamart",
+        "desc": "A premier online fashion destination that brings you the latest trends, styles, and exclusive collections right at your fingertips. ",
+        "image": "shivammegamart",
+        "category": "webapp",
+        "links": {
+            "view": "https://shivamsisodia07.github.io/e-commerce/",
+            "code": "https://github.com/shivamsisodia07/e-commerce"
+        }
+    }, {
+        "name": "Add to cart project",
+        "desc": "The add to cart React project is a simple application that allows users to add products to a shopping cart.  ",
+        "image": "addtocart",
+        "category": "react app",
+        "links": {
+            "view": "https://shivamsisodia07.github.io/Addcart/",
+            "code": "https://github.com/shivamsisodia07/Addcart"
+        }
+    },
+    {
+        "name": "Github Readme",
+        "desc": "github readme design",
+        "image": "githubreadme",
+        "category": "readme",
+        "links": {
+            "view": "https://github.com/shivamsisodia07",
+            "code": "https://github.com/shivamsisodia07/shivamsisodia07"
+        }
+    },
+    {
+        "name": "Weather App",
+        "desc": "weather app utilizes advanced geolocation technology to provide personalized weather forecasts based on your current location.",
+        "image": "weatherapp",
+        "category": "webapp",
+        "links": {
+            "view": "https://shivamsisodia07.github.io/weatherApp/",
+            "code": "https://github.com/shivamsisodia07/weatherApp"
+        }
+    },
+    {
+        "name": "CodeAi",
+        "desc": "A clone version of chat gpt with an elegant ui . It communicates with the advanced GPT3 model API.",
+        "image": "codeai",
+        "category": "webapp",
+        "links": {
+            "view": "https://codex-dusky.vercel.app/",
+            "code": "https://github.com/shivamsisodia07/codex"
+        }
+    },
+    {
+        "name": "musikana",
+        "desc": "music band web application",
+        "image": "musikana",
+        "category": "webapp",
+        "links": {
+            "view": "https://shivamsisodia07.github.io/DrumKit/",
+            "code": "https://github.com/shivamsisodia07/DrumKit"
+        }
+    },
+    {
+        "name": "jsclocky",
+        "desc": "clock using javascript",
+        "image": "clocky",
+        "category": "webapp",
+        "links": {
+            "view": "https://shivamsisodia07.github.io/clocky/",
+            "code": "https://github.com/shivamsisodia07/clocky"
+        }
+    }
+]
