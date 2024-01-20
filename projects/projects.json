@@ -1,4 +1,56 @@
-[{
+[
+    {
+        "name": "Kimaya",
+        "desc": "Designed and developed a real-time chat application with text-to-speech and speech-to-text functionality,ensuring inclusive communication for users with diverse needs. Integrated camera and microphone for enhanced engagement. • Leveraged Socket.io for real-time data exchange, MongoDB for efficient data storage and management, and JWT authentication for robust user security, ensuring a scalable and protected communication platform.",
+        "image": "kimaya",
+        "category": "webapp",
+        "links": {
+            "view": "https://kimaya-bot.netlify.app/",
+            "code": "https://github.com/shivamsisodia07/chatBot"
+        }
+    },
+    {
+        "name": "Contest Bot",
+        "desc": "Developed a WhatsApp bot using Node.js, MongoDB which notifies 450+ users about upcoming coding contests on platforms like Leetcode and Codeforces for timely and effective communication.",
+        "image": "Contest",
+        "category": "webapp",
+        "links": {
+            "view": "https://chat.whatsapp.com/EG8JPf1n3CAH42O8uGLEy7",
+            "code": "https://github.com/shivamsisodia07/ContestBot"
+        }
+    },
+    {
+        "name": "Notes Zipper",
+        "desc": "Devised a feature-rich notes-taking web App with seamless Sign-up and Login features for new and existing customers. Leveraged JWT Authentication to ensure secure user authentication and authorization.",
+        "image": "Notes",
+        "category": "webapp",
+        "links": {
+            "view": "https://memoriessaver.netlify.app",
+            "code": "https://github.com/shivamsisodia07/Notes"
+        }
+    },
+    {
+        "name": "MovieTime",
+        "desc": "Built with React, Redux Toolkit, and Axios for a streamlined, dynamic, and responsive user experience,seamlessly accessing a vast movie catalog powered by TheMovieDB API.",
+        "image": "MovieTime",
+        "category": "webapp",
+        "links": {
+            "view": "https://movietime-delta.vercel.app/",
+            "code": "https://github.com/shivamsisodia07/movietime"
+        }
+    },
+
+    {
+        "name": "Portfolio",
+        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+        "image": "portfolio",
+        "category": "webapp",
+        "links": {
+            "view": "https://shivam-sisodia.netlify.app/",
+            "code": "https://github.com/shivamsisodia07/portfolio"
+        }
+    },
+    {
         "name": "Fit Factory",
         "desc": "A fitness web application .User can choose exercise categories and browse more than one thousand exercises. ",
         "image": "fitfactory",
@@ -65,36 +117,6 @@
         "links": {
             "view": "https://shivamsisodia07.github.io/weatherApp/",
             "code": "https://github.com/shivamsisodia07/weatherApp"
-        }
-    },
-    {
-        "name": "CodeAi",
-        "desc": "A clone version of chat gpt with an elegant ui . It communicates with the advanced GPT3 model API.",
-        "image": "codeai",
-        "category": "webapp",
-        "links": {
-            "view": "https://codex-dusky.vercel.app/",
-            "code": "https://github.com/shivamsisodia07/codex"
-        }
-    },
-    {
-        "name": "musikana",
-        "desc": "music band web application",
-        "image": "musikana",
-        "category": "webapp",
-        "links": {
-            "view": "https://shivamsisodia07.github.io/DrumKit/",
-            "code": "https://github.com/shivamsisodia07/DrumKit"
-        }
-    },
-    {
-        "name": "jsclocky",
-        "desc": "clock using javascript",
-        "image": "clocky",
-        "category": "webapp",
-        "links": {
-            "view": "https://shivamsisodia07.github.io/clocky/",
-            "code": "https://github.com/shivamsisodia07/clocky"
         }
     }
 ]
