@@ -1496,6 +1496,9 @@ form .button-area {
     section {
         padding: 2rem;
     }
+    .home{
+        padding-top: 50%;
+    }
 }
 
 
